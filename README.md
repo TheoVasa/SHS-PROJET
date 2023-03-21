@@ -19,3 +19,11 @@ Marcel Pilet-Golaz
 Pierre Laval
 Ernst Nobs
 Friedrich Traugott Wahlen
+jean francois bergier
+major EMG Barbey
+lieutenant-colonel Garteiser
+johannes blaskowitz
+lattre de tasigny
+général montmollin
+roger masson
+hans hausamann
