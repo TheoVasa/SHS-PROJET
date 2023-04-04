@@ -20,10 +20,11 @@ PERSONNALITES :
 - Ernst Nobs ->709
 - Friedrich Traugott Wahlen ->260
 - jean francois bergier ->770- 
-- major EMG Barbey ->0
-- lieutenant-colonel Garteiser ->2
+- major EMG Barbey -> 648 pour Bernard Barbey
+- lieutenant-colonel Garteiser ->2 , 12 que pour Garteiser
 - johannes blaskowitz ->7
 - de Lattre de Tassigny ->120
 - général montmollin ->17
 - roger masson ->225
 - hans hausamann ->52
+- (general) gamelin ->2643
