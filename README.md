@@ -7,24 +7,28 @@ THEMATIQUE:
 PERSONNALITES : 
 - Henri Guisan -> 2807
 - Rudolph Minger ->9
-- Klause Hurner  ->0
 - Georges-André Chevallaz -> 5300
+- Heinrich Rothmund ->135
+- Giuseppe Motta ->2631
+- Marcel Pilet-Golaz ->587
+- Ernst Nobs ->709
+- Friedrich Traugott Wahlen ->260
+- jean francois bergier ->770
+- général montmollin ->17
+- roger masson ->225
+- hans hausamann ->52
+
+(- Jakob Labhart)
+
+PERSONNALITES NON GARDEES : 
+- Klause Hurner  ->0
 - Edda Ciano ->330
 - Dino Alfieri ->289
 - Giuseppe Bastianini ->48
 - Guglielmo Canevascini ->169
-- Heinrich Rothmund ->135
-- Giuseppe Motta ->2631
-- Marcel Pilet-Golaz ->587
 - Pierre Laval ->6517
-- Ernst Nobs ->709
-- Friedrich Traugott Wahlen ->260
-- jean francois bergier ->770- 
 - major EMG Barbey -> 648 pour Bernard Barbey
 - lieutenant-colonel Garteiser ->2 , 12 que pour Garteiser
 - johannes blaskowitz ->7
-- de Lattre de Tassigny -> 2725 
-- général montmollin ->17
-- roger masson ->225
-- hans hausamann ->52
+- de Lattre de Tassigny -> 2725
 - (general) gamelin ->2643
