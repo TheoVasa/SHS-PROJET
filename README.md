@@ -23,7 +23,7 @@ PERSONNALITES :
 - major EMG Barbey ->0
 - lieutenant-colonel Garteiser ->2
 - johannes blaskowitz ->7
-- lattre de tasigny ->1
+- de Lattre de Tassigny ->120
 - général montmollin ->17
 - roger masson ->225
 - hans hausamann ->52
