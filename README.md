@@ -2,6 +2,7 @@
 Projet pour le cours SHS, création d'un wiki pour une thématique choisie
 
 GOOGLE DOCS = https://docs.google.com/document/d/1De4CfC-331A5ks975kaj4rN78FFFLK5LVfw2Cz7eNgM/edit
+PRESENTATION INTERMEDIARE : https://docs.google.com/presentation/d/1XhrKUznWItjrxcxzGwK1odl60xNLPtkEC-8xBtN4cWA/edit?usp=sharing
 
 THEMATIQUE: 
 ***<u>L'armée Suisse pendant les années 40<u>***
